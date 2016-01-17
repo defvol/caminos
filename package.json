@@ -1,0 +1,28 @@
+{
+  "name": "caminos",
+  "version": "0.1.0",
+  "description": "Analyzing road coverage in Mexico: OSM vs INEGI",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodowi/caminos.git"
+  },
+  "keywords": [
+    "TileReduce",
+    "OpenStreetMap",
+    "Mexico",
+    "INEGI"
+  ],
+  "author": "Rodolfo Wilhelmy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodowi/caminos/issues"
+  },
+  "homepage": "https://github.com/rodowi/caminos",
+  "dependencies": {
+    "tile-reduce": "^3.0.2"
+  }
+}
